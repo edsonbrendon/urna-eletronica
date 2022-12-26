@@ -11,5 +11,5 @@ Projeto desenvolvido como um emulador para as votações para presidente da rep�
 Clone o repositório e abra a solução.
 
 ```
-$ git clone https://github.com/edsonbrendon/urna-eletronica
+git clone https://github.com/edsonbrendon/urna-eletronica
 ```
